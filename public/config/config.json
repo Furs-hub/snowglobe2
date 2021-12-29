@@ -9,10 +9,10 @@
   "NFT_NAME": "Snow Globe",
   "SYMBOL": "SG",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 20000000000000000,
+  "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.001,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/snow-globe-v3",
   "SHOW_BACKGROUND": true
 }

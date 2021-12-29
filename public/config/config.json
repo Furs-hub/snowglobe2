@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xABB1A0150f3c81825347e317b03Ac941A1cc8888",
-  "SCAN_LINK": "https://polygonscan.com/token/0xabb1a0150f3c81825347e317b03ac941a1cc8888",
+  "CONTRACT_ADDRESS": "0x410aC427cDAbbD992d5375D848da7Cc9ca3f5CC6",
+  "SCAN_LINK": "https://polygonscan.com/token/0x410aC427cDAbbD992d5375D848da7Cc9ca3f5CC6",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Snow Globe",
-  "SYMBOL": "SG",
-  "MAX_SUPPLY": 1000,
+  "NFT_NAME": "Snow Snow",
+  "SYMBOL": "SN",
+  "MAX_SUPPLY": 992,
   "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/snow-globe-v3",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/snow-snow-v2",
   "SHOW_BACKGROUND": true
 }

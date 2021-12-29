@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 15,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 385000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/new-year-zpkxrtbd1h",
   "SHOW_BACKGROUND": true

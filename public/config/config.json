@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xd3e1664050f03e96fd38b2fb558f5bf1b92ec442",
-  "SCAN_LINK": "https://polygonscan.com/token/0xd3e1664050f03e96fd38b2fb558f5bf1b92ec442",
+  "CONTRACT_ADDRESS": "0xD3e1664050F03e96fD38B2fb558f5bF1b92ec442",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd3e1664050f03e96fd38b2fb558f5bf1b92ec442",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,9 +8,9 @@
   },
   "NFT_NAME": "New Year",
   "SYMBOL": "NY",
-  "MAX_SUPPLY": 15,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "MAX_SUPPLY": 800,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/new-year-uok5o2pd0e",

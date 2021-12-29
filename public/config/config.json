@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0xABB1A0150f3c81825347e317b03Ac941A1cc8888",
+  "SCAN_LINK": "https://polygonscan.com/token/0xabb1a0150f3c81825347e317b03ac941a1cc8888",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "Snow Globe",
+  "SYMBOL": "SG",
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,

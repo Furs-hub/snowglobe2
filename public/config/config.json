@@ -8,10 +8,10 @@
   },
   "NFT_NAME": "New Year",
   "SYMBOL": "NY",
-  "MAX_SUPPLY": 800,
+  "MAX_SUPPLY": 15,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 385000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/new-year-uok5o2pd0e",
   "SHOW_BACKGROUND": true

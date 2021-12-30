@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x410aC427cDAbbD992d5375D848da7Cc9ca3f5CC6",
-  "SCAN_LINK": "https://polygonscan.com/address/0x410ac427cdabbd992d5375d848da7cc9ca3f5cc6",
+  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Snow Snow",
-  "SYMBOL": "SN",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "Nerdy Coder Clones",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 1000000000000,
   "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,

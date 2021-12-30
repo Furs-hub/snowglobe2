@@ -9,9 +9,9 @@
   "NFT_NAME": "Snow Snow",
   "SYMBOL": "SN",
   "MAX_SUPPLY": 992,
-  "WEI_COST": 2000000000000000,
-  "DISPLAY_COST": 0.001,
-  "GAS_LIMIT": 30000000,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/snow-snow-v2",
   "SHOW_BACKGROUND": true
